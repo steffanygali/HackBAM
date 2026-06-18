@@ -23,7 +23,7 @@
 
 ## Descripción del proyecto
 
-**MESO MAP** es una aplicación web full-stack que permite explorar objetos arqueológicos y piezas de arte precolombino de la *Colección Anne-Marie y Caspar Reinhart* del Museo Rietberg (Zúrich), visualizándolos geográficamente sobre un mapa interactivo de Mesoamérica.
+**AMOTOTHLI** es una aplicación web full-stack que permite explorar objetos arqueológicos y piezas de arte precolombino de la *Colección Anne-Marie y Caspar Reinhart* del Museo Rietberg (Zúrich), visualizándolos geográficamente sobre un mapa interactivo de Mesoamérica.
 
 El usuario puede:
 - Seleccionar un **período histórico** (400 d.C. – 2000 d.C.) en la línea de tiempo
