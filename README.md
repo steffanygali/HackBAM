@@ -1,4 +1,4 @@
-#  MESO MAP — Explorador Histórico de Mesoamérica
+#  AMATOTHILI — Explorador Histórico de Mesoamérica
 
 > Mapa interactivo que visualiza objetos arqueológicos del Museo Rietberg de Zúrich sobre los países de Mesoamérica, filtrados por período histórico y con datos en tiempo real desde Wikimedia Commons.
 
